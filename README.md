@@ -50,3 +50,4 @@ Wind speed: 3.6 m/s
 - If a city is not found, the CLI exits with an error message.
 
 Enjoy! ✨
+crevcer
